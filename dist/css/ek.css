@@ -1,0 +1,9 @@
+.customizer .service-panel-toggle {
+    background: #f62d51;
+    padding: 12px 20px;
+    color: #fff;
+    position: absolute;
+    top: 30%;
+    left: -54px;
+    display: none;
+}
