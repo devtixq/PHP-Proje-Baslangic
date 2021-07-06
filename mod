@@ -24,4 +24,3 @@ Güvenli Admin Girişi
 Güvenli Admin Çerezleme
 Admin Kontrolü
 Yönetici Ekleme
-64 derste kaldık
